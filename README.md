@@ -59,7 +59,7 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 👩‍💻 Author
+## Contact
 **Somya Agrawal**  
 - [LinkedIn](https://www.linkedin.com/in/somya-agrawal-analyst/)  
 - [Portfolio](https://www.zapfolio.in/somya_agrawal936-bdark)  
